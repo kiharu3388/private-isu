@@ -23,5 +23,5 @@ $ vagrant ssh bench
 $ sudo su - isucon
 $ /home/isucon/private_isu.git/benchmarker/bin/benchmarker -u /home/isucon/private_isu.git/benchmarker/userdata -t http://172.28.128.6
 ```
-####結果
+#### 結果
 ```{"pass":false,"score":0,"success":0,"fail":8,"messages":["response code should be 200, got 502 (POST /login)","response code should be 200, got 502 (POST /register)"]}```
