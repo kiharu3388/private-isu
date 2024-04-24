@@ -49,4 +49,5 @@ $ip a
 
 ```
 $ /home/isucon/private_isu.git/benchmarker/bin/benchmarker -u /home/isucon/private_isu.git/benchmarker/userdata -t http://192.168.56.6
-{"pass":false,"score":0,"success":0,"fail":8,"messages":["response code should be 200, got 502 (POST /login)","response code should be 200, got 502 (POST /register)"]}```
+{"pass":false,"score":0,"success":0,"fail":8,"messages":["response code should be 200, got 502 (POST /login)","response code should be 200, got 502 (POST /register)"]}
+```
